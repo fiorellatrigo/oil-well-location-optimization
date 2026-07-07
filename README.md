@@ -1,7 +1,7 @@
 # Oil Well Location Optimization for OilyGiant
 
 <p align="center">
-  <img src="img/profitability_vs_risk.png" width="700">
+  <img src="img/profitability_vs_risk.png" width="500">
 </p>
 
 ## 1. The Problem
